@@ -1,0 +1,14 @@
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\1.DayOfTheWeek.exe
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\1.DayOfTheWeek.deps.json
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\1.DayOfTheWeek.runtimeconfig.json
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\1.DayOfTheWeek.runtimeconfig.dev.json
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\1.DayOfTheWeek.dll
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\1.DayOfTheWeek.pdb
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.csproj.AssemblyReference.cache
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.AssemblyInfoInputs.cache
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.AssemblyInfo.cs
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.csproj.CoreCompileInputs.cache
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.dll
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.pdb
+E:\2ch\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\1.DayOfTheWeek.genruntimeconfig.cache

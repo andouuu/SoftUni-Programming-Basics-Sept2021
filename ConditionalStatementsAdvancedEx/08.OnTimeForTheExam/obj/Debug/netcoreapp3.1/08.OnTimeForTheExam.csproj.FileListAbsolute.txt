@@ -1,0 +1,14 @@
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.exe
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.deps.json
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.json
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.dev.json
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csproj.AssemblyReference.cache
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfoInputs.cache
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfo.cs
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+E:\2ch\ConditionalStatementsAdvancedEx\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.exe
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.deps.json
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.runtimeconfig.json
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.runtimeconfig.dev.json
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.dll
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.pdb
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.csproj.AssemblyReference.cache
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.AssemblyInfoInputs.cache
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.AssemblyInfo.cs
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.csproj.CoreCompileInputs.cache
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.dll
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.pdb
+E:\2ch\FirstStepsInProgrammingLecture\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.exe
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.deps.json
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.json
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.dev.json
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.dll
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.pdb
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfoInputs.cache
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfo.cs
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.CoreCompileInputs.cache
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.dll
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.pdb
+E:\2ch\FirstStepsInProgrammingLecture\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.genruntimeconfig.cache

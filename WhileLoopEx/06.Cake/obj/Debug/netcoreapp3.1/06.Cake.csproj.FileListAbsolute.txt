@@ -1,0 +1,13 @@
+E:\2ch\WhileLoopEx\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+E:\2ch\WhileLoopEx\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+E:\2ch\WhileLoopEx\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+E:\2ch\WhileLoopEx\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+E:\2ch\WhileLoopEx\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+E:\2ch\WhileLoopEx\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+E:\2ch\WhileLoopEx\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\WhileLoopEx\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+E:\2ch\WhileLoopEx\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+E:\2ch\WhileLoopEx\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.CoreCompileInputs.cache
+E:\2ch\WhileLoopEx\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+E:\2ch\WhileLoopEx\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb
+E:\2ch\WhileLoopEx\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\2ch\ForLoopLab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.exe
+E:\2ch\ForLoopLab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.deps.json
+E:\2ch\ForLoopLab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.json
+E:\2ch\ForLoopLab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.dev.json
+E:\2ch\ForLoopLab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.dll
+E:\2ch\ForLoopLab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.pdb
+E:\2ch\ForLoopLab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ForLoopLab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfoInputs.cache
+E:\2ch\ForLoopLab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfo.cs
+E:\2ch\ForLoopLab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csproj.CoreCompileInputs.cache
+E:\2ch\ForLoopLab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.dll
+E:\2ch\ForLoopLab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.pdb
+E:\2ch\ForLoopLab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.genruntimeconfig.cache

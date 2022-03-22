@@ -1,0 +1,14 @@
+E:\2ch\ExcellentResult\Proverki\bin\Debug\netcoreapp3.1\ExcellentResult.exe
+E:\2ch\ExcellentResult\Proverki\bin\Debug\netcoreapp3.1\ExcellentResult.deps.json
+E:\2ch\ExcellentResult\Proverki\bin\Debug\netcoreapp3.1\ExcellentResult.runtimeconfig.json
+E:\2ch\ExcellentResult\Proverki\bin\Debug\netcoreapp3.1\ExcellentResult.runtimeconfig.dev.json
+E:\2ch\ExcellentResult\Proverki\bin\Debug\netcoreapp3.1\ExcellentResult.dll
+E:\2ch\ExcellentResult\Proverki\bin\Debug\netcoreapp3.1\ExcellentResult.pdb
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.csproj.AssemblyReference.cache
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.AssemblyInfoInputs.cache
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.AssemblyInfo.cs
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.csproj.CoreCompileInputs.cache
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.dll
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.pdb
+E:\2ch\ExcellentResult\Proverki\obj\Debug\netcoreapp3.1\ExcellentResult.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.exe
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.deps.json
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.json
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.dev.json
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.dll
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.AssemblyReference.cache
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfoInputs.cache
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfo.cs
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.CoreCompileInputs.cache
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.dll
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+E:\2ch\FirstStepsInCodingEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.genruntimeconfig.cache

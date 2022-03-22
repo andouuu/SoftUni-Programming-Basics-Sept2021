@@ -1,0 +1,13 @@
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\bin\Debug\netcoreapp3.1\04.GrandpaStavri.exe
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\bin\Debug\netcoreapp3.1\04.GrandpaStavri.deps.json
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\bin\Debug\netcoreapp3.1\04.GrandpaStavri.runtimeconfig.json
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\bin\Debug\netcoreapp3.1\04.GrandpaStavri.runtimeconfig.dev.json
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\bin\Debug\netcoreapp3.1\04.GrandpaStavri.dll
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\bin\Debug\netcoreapp3.1\04.GrandpaStavri.pdb
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\obj\Debug\netcoreapp3.1\04.GrandpaStavri.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\obj\Debug\netcoreapp3.1\04.GrandpaStavri.AssemblyInfoInputs.cache
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\obj\Debug\netcoreapp3.1\04.GrandpaStavri.AssemblyInfo.cs
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\obj\Debug\netcoreapp3.1\04.GrandpaStavri.csproj.CoreCompileInputs.cache
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\obj\Debug\netcoreapp3.1\04.GrandpaStavri.dll
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\obj\Debug\netcoreapp3.1\04.GrandpaStavri.pdb
+E:\2ch\FirstOnlineExamPB\04.GrandpaStavri\obj\Debug\netcoreapp3.1\04.GrandpaStavri.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\2ch\ConditionalStatementsEx\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.exe
+E:\2ch\ConditionalStatementsEx\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.deps.json
+E:\2ch\ConditionalStatementsEx\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.runtimeconfig.json
+E:\2ch\ConditionalStatementsEx\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.runtimeconfig.dev.json
+E:\2ch\ConditionalStatementsEx\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.dll
+E:\2ch\ConditionalStatementsEx\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.pdb
+E:\2ch\ConditionalStatementsEx\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ConditionalStatementsEx\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.AssemblyInfoInputs.cache
+E:\2ch\ConditionalStatementsEx\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.AssemblyInfo.cs
+E:\2ch\ConditionalStatementsEx\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.csproj.CoreCompileInputs.cache
+E:\2ch\ConditionalStatementsEx\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.dll
+E:\2ch\ConditionalStatementsEx\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.pdb
+E:\2ch\ConditionalStatementsEx\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.genruntimeconfig.cache

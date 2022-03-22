@@ -1,0 +1,14 @@
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\bin\Debug\netcoreapp3.1\03.ExcursionCalculator.exe
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\bin\Debug\netcoreapp3.1\03.ExcursionCalculator.deps.json
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\bin\Debug\netcoreapp3.1\03.ExcursionCalculator.runtimeconfig.json
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\bin\Debug\netcoreapp3.1\03.ExcursionCalculator.runtimeconfig.dev.json
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\bin\Debug\netcoreapp3.1\03.ExcursionCalculator.dll
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\bin\Debug\netcoreapp3.1\03.ExcursionCalculator.pdb
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.csproj.AssemblyReference.cache
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.AssemblyInfoInputs.cache
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.AssemblyInfo.cs
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.csproj.CoreCompileInputs.cache
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.dll
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.pdb
+E:\2ch\FirstOnlineExamPB\03.ExcursionCalculator\obj\Debug\netcoreapp3.1\03.ExcursionCalculator.genruntimeconfig.cache

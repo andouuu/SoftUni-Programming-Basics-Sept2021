@@ -1,0 +1,13 @@
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\andi\source\repos\ConditionalStatementsEx\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

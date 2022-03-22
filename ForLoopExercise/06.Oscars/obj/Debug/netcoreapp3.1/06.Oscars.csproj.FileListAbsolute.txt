@@ -1,0 +1,13 @@
+E:\2ch\ForLoopExercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.exe
+E:\2ch\ForLoopExercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.deps.json
+E:\2ch\ForLoopExercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.runtimeconfig.json
+E:\2ch\ForLoopExercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.runtimeconfig.dev.json
+E:\2ch\ForLoopExercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.dll
+E:\2ch\ForLoopExercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.pdb
+E:\2ch\ForLoopExercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ForLoopExercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.AssemblyInfoInputs.cache
+E:\2ch\ForLoopExercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.AssemblyInfo.cs
+E:\2ch\ForLoopExercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.csproj.CoreCompileInputs.cache
+E:\2ch\ForLoopExercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.dll
+E:\2ch\ForLoopExercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.pdb
+E:\2ch\ForLoopExercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.genruntimeconfig.cache

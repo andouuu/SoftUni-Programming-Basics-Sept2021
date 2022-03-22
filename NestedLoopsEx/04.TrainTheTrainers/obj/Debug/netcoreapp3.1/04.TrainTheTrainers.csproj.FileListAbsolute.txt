@@ -1,0 +1,14 @@
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.exe
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.deps.json
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.json
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.dev.json
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfoInputs.cache
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfo.cs
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.genruntimeconfig.cache
+E:\2ch\NestedLoopsEx\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.csproj.AssemblyReference.cache

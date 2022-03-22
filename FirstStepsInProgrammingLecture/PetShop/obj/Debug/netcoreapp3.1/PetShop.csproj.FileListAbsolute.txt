@@ -1,0 +1,13 @@
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\bin\Debug\netcoreapp3.1\PetShop.exe
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\bin\Debug\netcoreapp3.1\PetShop.deps.json
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.json
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.dev.json
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\bin\Debug\netcoreapp3.1\PetShop.dll
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\bin\Debug\netcoreapp3.1\PetShop.pdb
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\obj\Debug\netcoreapp3.1\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfoInputs.cache
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfo.cs
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.CoreCompileInputs.cache
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
+E:\2ch\FirstStepsInProgrammingLecture\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache

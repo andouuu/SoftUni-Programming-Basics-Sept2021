@@ -1,0 +1,14 @@
+E:\2ch\WhileLoopEx\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+E:\2ch\WhileLoopEx\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+E:\2ch\WhileLoopEx\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+E:\2ch\WhileLoopEx\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+E:\2ch\WhileLoopEx\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+E:\2ch\WhileLoopEx\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.CoreCompileInputs.cache
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.genruntimeconfig.cache
+E:\2ch\WhileLoopEx\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\2ch\ConditionalStatementsEx\Shopping\bin\Debug\netcoreapp3.1\Shopping.exe
+E:\2ch\ConditionalStatementsEx\Shopping\bin\Debug\netcoreapp3.1\Shopping.deps.json
+E:\2ch\ConditionalStatementsEx\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.json
+E:\2ch\ConditionalStatementsEx\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.dev.json
+E:\2ch\ConditionalStatementsEx\Shopping\bin\Debug\netcoreapp3.1\Shopping.dll
+E:\2ch\ConditionalStatementsEx\Shopping\bin\Debug\netcoreapp3.1\Shopping.pdb
+E:\2ch\ConditionalStatementsEx\Shopping\obj\Debug\netcoreapp3.1\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ConditionalStatementsEx\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfoInputs.cache
+E:\2ch\ConditionalStatementsEx\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfo.cs
+E:\2ch\ConditionalStatementsEx\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CoreCompileInputs.cache
+E:\2ch\ConditionalStatementsEx\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
+E:\2ch\ConditionalStatementsEx\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
+E:\2ch\ConditionalStatementsEx\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache

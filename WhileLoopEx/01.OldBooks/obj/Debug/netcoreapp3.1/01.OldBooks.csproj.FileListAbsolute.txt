@@ -1,0 +1,14 @@
+E:\2ch\WhileLoopEx\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.exe
+E:\2ch\WhileLoopEx\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.deps.json
+E:\2ch\WhileLoopEx\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.json
+E:\2ch\WhileLoopEx\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.dev.json
+E:\2ch\WhileLoopEx\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.dll
+E:\2ch\WhileLoopEx\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.pdb
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.AssemblyReference.cache
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfoInputs.cache
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfo.cs
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.CoreCompileInputs.cache
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.dll
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.pdb
+E:\2ch\WhileLoopEx\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.genruntimeconfig.cache

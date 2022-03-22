@@ -1,0 +1,13 @@
+E:\2ch\FirstOnlineExamPB\testvane\bin\Debug\netcoreapp3.1\testvane.exe
+E:\2ch\FirstOnlineExamPB\testvane\bin\Debug\netcoreapp3.1\testvane.deps.json
+E:\2ch\FirstOnlineExamPB\testvane\bin\Debug\netcoreapp3.1\testvane.runtimeconfig.json
+E:\2ch\FirstOnlineExamPB\testvane\bin\Debug\netcoreapp3.1\testvane.runtimeconfig.dev.json
+E:\2ch\FirstOnlineExamPB\testvane\bin\Debug\netcoreapp3.1\testvane.dll
+E:\2ch\FirstOnlineExamPB\testvane\bin\Debug\netcoreapp3.1\testvane.pdb
+E:\2ch\FirstOnlineExamPB\testvane\obj\Debug\netcoreapp3.1\testvane.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstOnlineExamPB\testvane\obj\Debug\netcoreapp3.1\testvane.AssemblyInfoInputs.cache
+E:\2ch\FirstOnlineExamPB\testvane\obj\Debug\netcoreapp3.1\testvane.AssemblyInfo.cs
+E:\2ch\FirstOnlineExamPB\testvane\obj\Debug\netcoreapp3.1\testvane.csproj.CoreCompileInputs.cache
+E:\2ch\FirstOnlineExamPB\testvane\obj\Debug\netcoreapp3.1\testvane.dll
+E:\2ch\FirstOnlineExamPB\testvane\obj\Debug\netcoreapp3.1\testvane.pdb
+E:\2ch\FirstOnlineExamPB\testvane\obj\Debug\netcoreapp3.1\testvane.genruntimeconfig.cache

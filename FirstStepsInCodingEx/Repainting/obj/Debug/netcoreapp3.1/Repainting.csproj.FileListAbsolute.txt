@@ -1,0 +1,13 @@
+E:\2ch\FirstStepsInCodingEx\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+E:\2ch\FirstStepsInCodingEx\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+E:\2ch\FirstStepsInCodingEx\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+E:\2ch\FirstStepsInCodingEx\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+E:\2ch\FirstStepsInCodingEx\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+E:\2ch\FirstStepsInCodingEx\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+E:\2ch\FirstStepsInCodingEx\Repainting\obj\Debug\netcoreapp3.1\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\FirstStepsInCodingEx\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+E:\2ch\FirstStepsInCodingEx\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+E:\2ch\FirstStepsInCodingEx\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+E:\2ch\FirstStepsInCodingEx\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+E:\2ch\FirstStepsInCodingEx\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+E:\2ch\FirstStepsInCodingEx\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

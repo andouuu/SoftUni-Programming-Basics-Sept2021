@@ -1,0 +1,13 @@
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\bin\Debug\netcoreapp3.1\01.Cinema.exe
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\bin\Debug\netcoreapp3.1\01.Cinema.deps.json
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.json
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.dev.json
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\bin\Debug\netcoreapp3.1\01.Cinema.dll
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\bin\Debug\netcoreapp3.1\01.Cinema.pdb
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\obj\Debug\netcoreapp3.1\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfoInputs.cache
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfo.cs
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\obj\Debug\netcoreapp3.1\01.Cinema.csproj.CoreCompileInputs.cache
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\obj\Debug\netcoreapp3.1\01.Cinema.dll
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\obj\Debug\netcoreapp3.1\01.Cinema.pdb
+E:\2ch\ConditionalStatementsAdvancedEx\ConditionalStatementsAdvancedEx\obj\Debug\netcoreapp3.1\01.Cinema.genruntimeconfig.cache

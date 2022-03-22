@@ -1,0 +1,14 @@
+E:\2ch\ExcellentResult\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+E:\2ch\ExcellentResult\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+E:\2ch\ExcellentResult\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+E:\2ch\ExcellentResult\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+E:\2ch\ExcellentResult\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+E:\2ch\ExcellentResult\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.AssemblyReference.cache
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+E:\2ch\ExcellentResult\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache

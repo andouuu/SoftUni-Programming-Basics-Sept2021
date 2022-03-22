@@ -1,0 +1,13 @@
+E:\2ch\WhileLoopLab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.exe
+E:\2ch\WhileLoopLab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.deps.json
+E:\2ch\WhileLoopLab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.runtimeconfig.json
+E:\2ch\WhileLoopLab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.runtimeconfig.dev.json
+E:\2ch\WhileLoopLab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.dll
+E:\2ch\WhileLoopLab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.pdb
+E:\2ch\WhileLoopLab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ch\WhileLoopLab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.AssemblyInfoInputs.cache
+E:\2ch\WhileLoopLab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.AssemblyInfo.cs
+E:\2ch\WhileLoopLab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.csproj.CoreCompileInputs.cache
+E:\2ch\WhileLoopLab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.dll
+E:\2ch\WhileLoopLab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.pdb
+E:\2ch\WhileLoopLab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.genruntimeconfig.cache
